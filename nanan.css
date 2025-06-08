@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(227, 205, 178);
+}
+h1{
+    font-family: 'Times New Roman';
+    color: #412828;
+}
+h3{
+    font-family: 'Lucida Sans';
+    color: #584141;
+}
+p{
+    color: #704b4b;
+    font-size: 16px;
+}
+h2{
+    color: rgb(239, 220, 220);
+}
